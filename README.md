@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarao3&label=Profile%20views&color=0e75b6&style" alt="adityarao3" /> </p>
 
-<p align="left"><em> <a href="https://twitter.com/realraoaditya" target="blank"><img src="https://img.shields.io/twitter/follow/realraoaditya?logo=twitter&style=for-the-badge" alt="@realraoaditya" /></a> </p>
+<p align="left"><em> <a href="https://twitter.com/HARISUMAN20" target="blank"><img src="https://img.shields.io/twitter/follow/realraoaditya?logo=twitter&style=for-the-badge" alt="@HARISUMAN20" /></a> </p>
 
  - 🌱 ***I’m currently learning*** :  *java,Data-Analytic*
 
